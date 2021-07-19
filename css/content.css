@@ -1,0 +1,31 @@
+.content {
+    width: 100%;
+    height: calc(100vh - 80px);
+    margin: 0px;
+    background: linear-gradient(#2F3E46, #CAD2C5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content__info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255);
+    border-radius: 40px;
+    color: white;
+    padding: 10px 100px;
+    min-height: 100px;
+    width: calc(100vw - 800px);
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+.content__info p {
+    text-align: center;
+    font-weight: 10px;
+}

@@ -28,4 +28,5 @@
 .content__info p {
     text-align: center;
     font-weight: 10px;
+    cursor: default;
 }

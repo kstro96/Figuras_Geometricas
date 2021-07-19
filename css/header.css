@@ -12,6 +12,7 @@
     width: 100%;
     font-family: 'Dancing Script', cursive;
     font-size: 45px;
+    cursor: default;
 }
 
 .header__img {
